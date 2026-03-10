@@ -73,7 +73,6 @@ SCT_WT_2
 ## 💡 Possible Enhancements
 
 * Add **milliseconds precision**
-* Implement **dark/light theme toggle**
 * Store lap history using **local storage**
 * Add **keyboard shortcuts for controls**
 
