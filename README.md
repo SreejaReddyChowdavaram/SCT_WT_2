@@ -9,6 +9,14 @@ The project demonstrates core front-end development concepts such as **DOM manip
 
 ---
 
+## 🌐 Live Website
+
+The project is deployed and accessible here:
+
+🔗 https://sreejareddychowdavaram.github.io/SCT_WT_2/
+
+---
+
 ## ✨ Features
 
 * ▶️ **Start Timer** – Begins the stopwatch
@@ -67,14 +75,6 @@ SCT_WT_2
 1. Download or clone the repository.
 2. Navigate to the project folder.
 3. Open **index.html** in any modern web browser.
-
----
-
-## 💡 Possible Enhancements
-
-* Add **milliseconds precision**
-* Store lap history using **local storage**
-* Add **keyboard shortcuts for controls**
 
 ---
 
